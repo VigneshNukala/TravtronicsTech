@@ -1,12 +1,13 @@
-React Project:
-This is a React project designed for Travtronics Assignment.
+Website: https://shoppyease.ccbp.tech/login
 
 Login Details:
 username: rahul
 password: rahul@2021
 
-Follow the instructions below to get started with running the project locally.
+React Project:
+This is a React project designed for Travtronics Assignment.
 
+Follow the instructions below to get started with running the project locally.
 Prerequisites:
 Make sure you have the following installed:
 Node.js (version 14.x or later) 
