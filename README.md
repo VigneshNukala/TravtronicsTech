@@ -1,7 +1,9 @@
 Website: https://shoppyease.ccbp.tech/login
 
 Login Details:
-username: rahul
+
+username: rahul 
+
 password: rahul@2021
 
 React Project:
