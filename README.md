@@ -15,7 +15,7 @@ npm Installation
 
 1.Clone the repository to your local machine:
   
-  git clone https://github.com/yourusername/your-repo-name.git
+  git clone https://github.com/VigneshNukala/TravtronicsTech.git
 
 2.Navigate to the project directory: 
   
