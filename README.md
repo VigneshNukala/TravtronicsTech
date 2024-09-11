@@ -12,13 +12,21 @@ Make sure you have the following installed:
 Node.js (version 14.x or later) 
 
 npm Installation
+
 1.Clone the repository to your local machine:
+  
   git clone https://github.com/yourusername/your-repo-name.git
+
 2.Navigate to the project directory: 
+  
   cd your-repo-name 
+
 3.Install dependencies: 
+ 
   npm install 
+
 4.Running the App(Start the development server): 
+  
   npm start 
   
 Open your browser and go to http://localhost:3000 to view the app. 
