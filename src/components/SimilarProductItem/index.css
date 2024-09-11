@@ -1,0 +1,28 @@
+.list-item {
+  margin-right: 30px;
+}
+
+.similar-image {
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.similar-para1 {
+  color: #1e293b;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.similar-para2 {
+  color: #cbced2;
+  font-size: 17px;
+  font-family: 'Roboto';
+}
+
+.price-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
